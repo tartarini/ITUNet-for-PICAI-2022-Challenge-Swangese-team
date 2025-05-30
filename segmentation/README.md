@@ -1,6 +1,6 @@
 # Segmentation Part for PICAI 2022 CHALLENGE
 
-## Perpare Segmentation Data
+## Prepare Segmentation Data
 Using the make_dataset.py to prepare the training data of segmentation phase.
 You should change the path to your data path, and make sure the 'phase' should be set to 'seg'
 Then you could run
